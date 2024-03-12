@@ -4,7 +4,7 @@ A SQL-based project for analysis of loans sanctioned by the Small Business Admin
 Integrated data from various CSV files using SSIS to create the database while having OLE DB as the API and Visual Studio as the platform.
 <br>
 Used SQL to clean and explore the data to answer questions, and generate meaningful insights.
-<be>
+<br>
 Dataset Link: https://data.sba.gov/dataset/ppp-foia
-<be>
+<br>
 https://www.sba.gov/document/support-table-size-standards
