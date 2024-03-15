@@ -5,6 +5,8 @@ Integrated data from various CSV files using SSIS to create the database while h
 <br>
 Used SQL to clean and explore the data to answer questions, and generate meaningful insights.
 <br>
+Tableau Link: https://public.tableau.com/app/profile/praveen.kumar7613/viz/PPPSummaryDashboard_17044560583540/PPPSummaryDashboard
+<br>
 Dataset Link: https://data.sba.gov/dataset/ppp-foia
 <br>
 https://www.sba.gov/document/support-table-size-standards
